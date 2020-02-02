@@ -1,4 +1,4 @@
-# Test-Junior-Data-Engineer-Welltory
+# Test-Junior-Data-Engineer
 ### Содержит два файла
 #### 1. Jupiter Notebook
 #### 2. База данных с данными с фитнес-трекера
